@@ -1,0 +1,6 @@
+{
+  "name": "Yeobaek Webzine — 월간 웹진",
+  "description": "매달 한 번, 우리가 발견한 이야기들을 전하는 에세이 & 비주얼 월간 웹진.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
